@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
+  title = "Research Assistant"
+  company = "Intelligent Software Construction Laboratory (ISCLab)"
+  company_url = "https://isclab.dcc.uchile.cl/"
+  location = "Santiago, Chile"
   date_start = "2017-01-01"
   date_end = ""
+  description = """Research on applying machine learning to source code."""
+
+[[experience]]
+  title = "Intern"
+  company = "Inria Chile"
+  company_url = "https://www.inria.cl/"
+  location = "Santiago, Chile"
+  date_start = "2017-07-01"
+  date_end = "2017-07-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Within the context of AI-assisted educational video game with ethic and moral themes:
+
+  + Compile bibliography related to _automatic consistent narrative generation_, and adapt and implement several techniques of narrative generation.
+  + Design of a proposal for the integration of _automatic generated ethical and moral conflicts_, through related narratives, to the video game.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Intern"
+  company = "NIC Chile Research Labs"
+  company_url = "https://niclabs.cl/"
+  location = "Santiago, Chile"
+  date_start = "2016-12-15"
+  date_end = "2017-01-15"
+  description = """
+  Improve task efficiency inside the lab:
+
+  + Install and configure HTC (High-throughput computing) software to automate tasks inside the laboratory.
+  + Evaluate the installed software on several environments inside the laboratory to quantify the positive impact of using it.
+  """
 
 +++
