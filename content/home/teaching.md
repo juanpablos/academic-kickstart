@@ -12,7 +12,7 @@ subtitle = ""
 
 
 # Order that this section will appear in.
-weight = 57
+weight = 20
 
 [[teaching]]
   course = "CC6204 - Deep Learning"
@@ -69,6 +69,7 @@ date_end = "Spring 2019"
 times = 1
 description = """
 Course required for the professional Artificial Intelligence diploma
+
 + Homework design.
 + Homework grading."""
 

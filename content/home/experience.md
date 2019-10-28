@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -28,6 +28,17 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern"
+  company = "We Techs"
+  company_url = "http://www.we-techs.com/"
+  location = "Santiago, Chile"
+  date_start = "2018-07-01"
+  date_end = "2018-12-31"
+  description = """
+  Was part of a team in charge of migrating the company's services from a relational schema to a ELK stack, then adding intelligence to the company's data. Specifically in charge of the ElasticSearch configuration and data analytics. Data processing and apply machine learning algorithms to improve company's control protocols.
+  """
+
+[[experience]]
+  title = "Research Intern"
   company = "Inria Chile"
   company_url = "https://www.inria.cl/"
   location = "Santiago, Chile"
