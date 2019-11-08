@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """Research on applying machine learning to source code."""
 
 [[experience]]
-  title = "Intern"
+  title = "Data Science Intern"
   company = "We Techs"
   company_url = "http://www.we-techs.com/"
   location = "Santiago, Chile"

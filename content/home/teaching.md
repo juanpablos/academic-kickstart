@@ -22,8 +22,9 @@ weight = 20
   date_end = "Spring 2019"
   times = 1
   description = """
+  + Office hours to assist students with their course projects.
   + Grading of homeworks.
-  + Evaluation of semestral projects"""
+  + Evaluation of semestral projects."""
 
 [[teaching]]
   course = "CC5206 - Introduction to Data mining"
@@ -68,7 +69,7 @@ date_start = "Spring 2019"
 date_end = "Spring 2019"
 times = 1
 description = """
-Course required for the professional Artificial Intelligence diploma
+Course required for the professional Artificial Intelligence diploma:
 
 + Homework design.
 + Homework grading."""
