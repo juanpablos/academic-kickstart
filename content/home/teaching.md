@@ -47,7 +47,7 @@ weight = 20
   times = 4
   description = """
   + Recitation classes (theoretical and practical) and design of homework material.
-  + Management of teaching aides, for test, exam and homework grading."""
+  + Management of teaching aides for test, exam and homework grading."""
 
 [[teaching]]
   course = "CC5114 - Neural Networks and Genetic Programming"
@@ -58,7 +58,7 @@ weight = 20
   times = 2
   description = """
   + Office hours to assist students with their course projects.
-  + Management of teaching aides, for homework grading.
+  + Management of teaching aides for homework grading.
   """
 
 [[teaching]]
