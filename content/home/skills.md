@@ -21,5 +21,4 @@ weight = 30
 ---
 
 ## __Technologies__
-Python, Java,
-Pytorch, Pytorch Geometric, Django, Flask
+Python, Java, Pytorch, Scikit Learn, Git, Linux, Django
