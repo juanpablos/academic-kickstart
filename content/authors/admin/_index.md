@@ -58,6 +58,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/juanpablos
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/juan-pablo-silva-536460123
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -79,4 +82,4 @@ I am a Master's student at the University of Chile, interested in Data Science a
 My experience consists mostly of researching uses of Machine Learning on source code and implementing various prototypes for freelance and research projects. This includes feature and data engineering, software development and results reporting.
 I also have experience in teaching as a TA for several courses in University ranging from advanced programming methodology classes to data mining and deep learning.
 
-When not in front of my computer I am reading, studying Japanese or building mechanical keyboards.
+When not in front of my computer I am reading, studying Japanese or building mechanical keyboards. I also love rhythm games.
