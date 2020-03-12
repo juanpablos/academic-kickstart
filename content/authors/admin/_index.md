@@ -77,9 +77,9 @@ email: ""
 # - Visitors
 ---
 
-I am a Master's student at the University of Chile, interested in Data Science and Machine Learning. I am developing my Master's thesis on the Interpretability of Graph Neural Networks using Logic. I have a strong interest in Recommendation Systems and applied machine learning.
+I am a Master's student at the University of Chile, interested in Data Science, Machine Learning and Software Engineering. I am developing my Master's thesis on the Interpretability of Graph Neural Networks using Logic. I have a strong interest in Recommendation Systems and applied Machine Learning.
 
 My experience consists mostly of researching uses of Machine Learning on source code and implementing various prototypes for freelance and research projects. This includes feature and data engineering, software development and results reporting.
-I also have experience in teaching as a TA for several courses in University ranging from advanced programming methodology classes to data mining and deep learning.
+I also have experience in teaching as a TA for several courses in University, ranging from advanced programming methodology classes to data mining and deep learning.
 
-When not in front of my computer I am reading, studying Japanese or building mechanical keyboards. I also love rhythm games.
+When not in front of my computer I am reading, studying Japanese, Kanji or building mechanical keyboards. I also love rhythm games.
