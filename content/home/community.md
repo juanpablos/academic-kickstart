@@ -17,7 +17,7 @@ weight = 40
 
 ## Committees
 
-+ Member of the Academic Evaluation Committee, 2018 - Present
++ Member of the Academic Evaluation Committee, 2018 - 2020
 
 ## Service
 
