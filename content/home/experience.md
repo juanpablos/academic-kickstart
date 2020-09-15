@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://isclab.dcc.uchile.cl/"
   location = "Santiago, Chile"
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = "2020-01-01"
   description = """Research on applying machine learning to source code."""
 
 [[experience]]

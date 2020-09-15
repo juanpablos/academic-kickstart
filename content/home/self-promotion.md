@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National Commission for Science and Technology"
+  organization_url = "https://www.conicyt.cl/"
+  title = "CONICYT Full Master’s Degree Scholarship"
+  url = "https://www.anid.cl/concursos/concurso/?id=239"
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Department of Computer Science"
   organization_url = "https://www.dcc.uchile.cl/"
   title = "Outstanding Teaching Assistant"
@@ -31,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Faculty of Physical and Mathematical Sciences"
   organization_url = "http://escuela.ingenieria.uchile.cl/"
-  title = "Outstanding Student 2018"
+  title = "Dean's List 2018"
   url = "http://escuela.ingenieria.uchile.cl/la-escuela/distinciones/alumnos-destacados-ano-2018"
   certificate_url = ""
   date_start = "2019-03-01"
@@ -41,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Faculty of Physical and Mathematical Sciences"
   organization_url = "http://escuela.ingenieria.uchile.cl/"
-  title = "Outstanding Student 2017"
+  title = "Dean's List 2017"
   url = "http://escuela.ingenieria.uchile.cl/la-escuela/distinciones/alumnos-destacados-ano-2017"
   certificate_url = ""
   date_start = "2018-03-01"
@@ -51,7 +61,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Faculty of Physical and Mathematical Sciences"
   organization_url = "http://escuela.ingenieria.uchile.cl/"
-  title = "Outstanding Student 2016"
+  title = "Dean's List 2016"
   url = "http://escuela.ingenieria.uchile.cl/la-escuela/distinciones/2016"
   certificate_url = ""
   date_start = "2017-03-01"

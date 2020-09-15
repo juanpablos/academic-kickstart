@@ -19,8 +19,8 @@ weight = 20
   title="Head Teaching Assistant"
   location = "University of Chile"
   date_start = "Spring 2019"
-  date_end = "Fall 2020"
-  times = 2
+  date_end = "Spring 2020"
+  times = 3
   description = """
   + Coordination and management of Teaching Assistants and course activities.
   + Laboratory activity preparation.
@@ -32,12 +32,25 @@ weight = 20
   title="Teaching Assistant"
   location = "University of Chile"
   date_start = "Spring 2019"
-  date_end = "Spring 2019"
-  times = 1
+  date_end = "Spring 2020"
+  times = 2
   description = """
   + Office hours to assist students with their course projects.
   + Grading of homeworks and projects.
+  + Design and development of an automated assignment correction system.
   + Course covers Basic Tensorial Calculus, Feedforward, Recurrent and Convolutional Neural Networks, Activation Functions, Losses and Theory.
+  """
+
+[[teaching]]
+  course = "CC5214 - Data Science Project"
+  title="Teaching Assistant"
+  location = "University of Chile"
+  date_start = "Spring 2020"
+  date_end = "Spring 2020"
+  times = 1
+  description = """
+  + Support students with their projects.
+  + Course consists of working with real companies and clients to experience real-world data science projects, from EDA to deployment.
   """
 
 [[teaching]]

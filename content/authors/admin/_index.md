@@ -14,8 +14,8 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Intelligent Software Construction Laboratory
-  url: "https://isclab.dcc.uchile.cl/"
+# - name: Intelligent Software Construction Laboratory
+#   url: "https://isclab.dcc.uchile.cl/"
 - name: Representation Learning and Natural Language Processing
   url: "https://dccuchile.github.io/relela/"
 - name: Millennium Institute for Foundational Research on Data
@@ -26,11 +26,11 @@ organizations:
   url: "http://www.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's student at the University of Chile, interested in Data Science and Machine Learning. When not in front of my computer I am reading, studying Japanese or building mechanical keyboards.
+bio: I am a Master's student at the University of Chile, interested in Software Engineering, Machine Learning and Data Science. When not in front of my computer I am playing rithm games, studying Japanese or building mechanical keyboards.
 
 interests:
 - Machine Learning
-- Source Code Representation
+- Deep Learning
 - Structured Representation Learning
 - Reinforcement Learning
 - Recommendation Systems
@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,9 +77,9 @@ email: ""
 # - Visitors
 ---
 
-I am a Master's student at the University of Chile, interested in Data Science, Machine Learning and Software Engineering. I am developing my Master's thesis on the Interpretability of Graph Neural Networks using Logic. I have a strong interest in Recommendation Systems and applied Machine Learning.
+I am a Master's student at the University of Chile, interested in Software Engineering, Machine Learning and Data Science. My Master's thesis is about the Logical Interpretability of Graph Neural Networks, figuring out what is happening inside the network in the domain of formal logic.
 
-My experience consists mostly of researching uses of Machine Learning on source code and implementing various prototypes for freelance and research projects. This includes feature and data engineering, software development and results reporting.
-I also have experience in teaching as a TA for several courses in University, ranging from advanced programming methodology classes to data mining and deep learning.
+My experience consists mostly of research on uses of Machine Learning on source code and research of Graph Neural Networks, and implementing various prototypes for freelance and research projects. This ranges from EDA and feature and data engineering, to software development and data visualization.
+I also have experience in teaching as a TA for several courses in University, ranging from advanced programming methodology classes to data mining and deep learning. Currently I am working as a TA for the following courses: Deep Learning, Introductory Data Mining and Data Science Project.
 
-When not in front of my computer I am reading, studying Japanese, Kanji or building mechanical keyboards. I also love rhythm games.
+When not in front of my computer I am reading, studying Japanese Kanji, or building mechanical keyboards. I also love rhythm games.
