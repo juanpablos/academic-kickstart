@@ -26,7 +26,7 @@ organizations:
   url: "http://www.uchile.cl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Master's student at the University of Chile, interested in Software Engineering, Machine Learning and Data Science. When not in front of my computer I am playing rithm games, studying Japanese or building mechanical keyboards.
+bio: I am a Master's student at the University of Chile, interested in Software Engineering, Machine Learning and Data Science. When not in front of my computer I am playing rithm games, studying Japanese or building mechanical keyboards. Currently I am working as a Backend Engineer at Cornershop.
 
 interests:
 - Machine Learning
@@ -83,3 +83,5 @@ My experience consists mostly of research on uses of Machine Learning on source 
 I also have experience in teaching as a TA for several courses in University, ranging from advanced programming methodology classes to data mining and deep learning. Currently I am working as a TA for the following courses: Deep Learning, Introductory Data Mining and Data Science Project.
 
 When not in front of my computer I am reading, studying Japanese Kanji, or building mechanical keyboards. I also love rhythm games.
+
+Currently I am working as a Backend Engineer at Cornershop.
